@@ -24,7 +24,7 @@ Em uma pasta de sua preferência, execute:
 git clone https://github.com/EmilcyFelipe/Pizzaria_Backend.git
 ```
   
-#### Entre no diretório BeMobile
+#### Entre no diretório Pizzaria_Backend
 ```bash
 cd Pizzaria_Backend
 ```
